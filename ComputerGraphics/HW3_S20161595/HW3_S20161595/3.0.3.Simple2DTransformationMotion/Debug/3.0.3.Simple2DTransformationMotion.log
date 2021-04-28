@@ -1,0 +1,12 @@
+﻿  3.0.3.Simple2DTransformationMotion.cpp
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(2,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,17): warning C4101: 'delx' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,14): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,8): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,29): warning C4101: 'dels' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,11): warning C4101: 'r' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(282,23): warning C4101: 'delr' :참조되지 않은 지역 변수입니다.
+E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion\3.0.3.Simple2DTransformationMotion.cpp(509,35): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LoadShaders.cpp
+  코드를 생성하고 있습니다...
+  3.0.3.Simple2DTransformationMotion.vcxproj -> E:\SSD256GBHD\Active_Original\Work\Teaching\CSE4170\OpenGL_Codes\3.0.3.Simple2DTransformationMotion\Debug\3.0.3.Simple2DTransformationMotion.exe

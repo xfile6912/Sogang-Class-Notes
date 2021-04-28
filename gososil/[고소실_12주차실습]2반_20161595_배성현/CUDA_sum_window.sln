@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA_sum_window", "CUDA_sum_window\CUDA_sum_window.vcxproj", "{F1CBCF83-7F65-4D07-BB3B-478FD871CEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CBCF83-7F65-4D07-BB3B-478FD871CEF3}.Debug|x64.ActiveCfg = Debug|x64
+		{F1CBCF83-7F65-4D07-BB3B-478FD871CEF3}.Debug|x64.Build.0 = Debug|x64
+		{F1CBCF83-7F65-4D07-BB3B-478FD871CEF3}.Release|x64.ActiveCfg = Release|x64
+		{F1CBCF83-7F65-4D07-BB3B-478FD871CEF3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5FBCBA2-18CD-4B55-9AA7-15A05D1F0DAA}
+	EndGlobalSection
+EndGlobal
