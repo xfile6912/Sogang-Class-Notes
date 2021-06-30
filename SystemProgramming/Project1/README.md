@@ -13,3 +13,6 @@
 - opcodelist: opcode hash table의 내용을 출력
 ------
 ### 수행 결과
+<img width="551" alt="1" src="https://user-images.githubusercontent.com/57051773/123925706-21dfd000-d9c6-11eb-83d9-80296bf3b4c6.png">
+<img width="552" alt="2" src="https://user-images.githubusercontent.com/57051773/123925716-23a99380-d9c6-11eb-8ef1-f5c5285d7890.png">
+<img width="552" alt="3" src="https://user-images.githubusercontent.com/57051773/123925731-26a48400-d9c6-11eb-9bdc-21ea1b61abdc.png">
