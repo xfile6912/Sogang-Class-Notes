@@ -1,0 +1,11 @@
+1. 컴파일 방법:
+Makefile, 필요한 Source코드(myshell.h, myshell.c, csapp.h, csapp.c)이 모두 들어있는 각 Phase폴더에서 'make'라는 명령어를 통해 컴파일 한다.
+
+2. 실행 방법:
+컴파일이 끝난 후 myshell 실행 파일이 생성되고 ./myshell을 통하여 프로그램을 실행한다.
+
+
+Phase1
+부모 프로세스가 사용자의 명령어를 해석하고 그 결과에 따라 자식 프로세스를 만들도록 하고 
+또 자식 프로세스에서 해당 프로그램이 실행되게 하여 cd, cd.., ls, mkdir, rmdir, touch, cat, echo등의 
+간단한 Shell Command가 수행될 수 있는 프로그램이다.

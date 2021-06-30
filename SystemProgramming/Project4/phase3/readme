@@ -1,0 +1,12 @@
+1. 컴파일 방법:
+Makefile, 필요한 Source코드(myshell.h, myshell.c, csapp.h, csapp.c)이 모두 들어있는 각 Phase폴더에서 'make'라는 명령어를 통해 컴파일 한다.
+
+2. 실행 방법:
+컴파일이 끝난 후 myshell 실행 파일이 생성되고 ./myshell을 통하여 프로그램을 실행한다.
+
+
+Phase3
+background에서 수행되고 종료된 프로세스를 끝났을 때 따로 Reaping할 수 있도록 하여 메모리 누수를 방지하고
+이를 통하여 Foreground뿐만 아니라 백그라운드에서도 프로세스를 수행할 수 있는 Shell Program이다. 
+또한 jobs, bg, fg, kill명령어를 사용하여 process의 background와 foreground 작업 사이에서의 이동을 제어할 수 있으며 
+RUNNING, STOPPED, TERMINATED등의 상태로 프로세스의 상태를 변경할 수 있는 Shell Program이다.
