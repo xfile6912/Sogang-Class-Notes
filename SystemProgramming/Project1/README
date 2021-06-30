@@ -1,15 +1,15 @@
-1. 프로젝트 개요:
-
-이 프로그램은 SIC/XE머신 구현을 위한 전 단계로서 기본적인 shell명령어들과, object 코드가 적재되고 실행될 메모리 공간, mnemonic(ADD, COMP, FLOAT 등)을 opcode값으로 변환하는 OPCODE 테이블과 관련 명령어들을 구현한 프로그램이다.
-
-
-
-2. 컴파일 방법:
-
-Makefile, 필요한 Source코드(20161595.h, 20161595.c) 및 파일(opcode.txt)이 모두 들어있는 폴더에서 'make'라는 명령어를 통해 컴파일 한다.
-
-
-
-3. 실행 방법:
-
-컴파일이 끝난 후 20161595.out 파일이 생성되고 ./20161595.out을 통하여 프로그램을 실행한다.
+# SIC/XE Machine1(Shell, Memory Space, Opcode Table)
+------
+### 구현 명령(Shell)
+-	h[elp] : Shell에서 실행 가능한 모든 명령어들의 리스트를 화면에 출력
+-	d[ir] : 현재 directory에 있는 파일들을 출력
+- q[uit] : Shell을 종료
+- hi[story] : 현재까지 사용한 명령어들으 순서대로 번호와 함께 출력
+- du[mp] [start, end] : 할당되어 있는 메모리의 내용으 출력(메모리 주소, 메모리내용(16진수); 메모리 내용(ASCII, 20~7E))
+- e[dit] address, value : 메모리의 address번지 값을 value에 지정된 값으로 변경
+- f[ill] start, end, value : 메모리의 start번지부 end번지 까지의 값을 value에 지정된 값으로 변경
+- reset : 메모리 전체를 전부 0을 변경
+- opcode mnemonic: 명령어에 해당하는 opcode를 출력
+- opcodelist: opcode hash table의 내용을 출력
+------
+### 수행 결과
