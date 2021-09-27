@@ -32,10 +32,6 @@
 - **2021-1학기**<br>
 - **내용: 정리본**<br>
 - https://github.com/xfile6912/SoftwareEngineering
-### 시스템 프로그래밍: System Programming(CSE4100)
-- **2021-1학기**<br>
-- **내용: 정리본 및 프로젝트**<br>
-- https://github.com/xfile6912/SystemProgramming
 ### 기초 컴퓨터 네트워크: Computer Network(CSE4175)
 - **2021-1학기**<br>
 - **내용: 정리본 및 과제**<br>
